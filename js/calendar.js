@@ -12,6 +12,8 @@ var currentYear = today.getFullYear();
 var selectYear = document.getElementById("year");
 var selectMonth = document.getElementById("month");
 
+
+
 var createYear = generate_year_range(1970, 2200);
 
 document.getElementById("year").innerHTML = createYear;

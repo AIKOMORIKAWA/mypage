@@ -60,7 +60,7 @@ color: blue;
   overflow: hidden;
   clear: both;
 }
-#previous {
+#previous {  
   float: left;
 }
 #next {
